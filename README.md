@@ -1,1 +1,1 @@
-Completing all the exercises in the online book Learning Ruby The Hard Way.
+This is a collection of scripts for completing the exercises in the online book [Learning Ruby The Hard Way](http://ruby.learncodethehardway.org/). If the exercise number exists as a script here then its been completed.
